@@ -6,7 +6,7 @@ import textwrap
 import typing
 
 import blinker
-import blinker._saferef
+import blinker
 
 from seleniumwire.thirdparty.mitmproxy import exceptions
 from seleniumwire.thirdparty.mitmproxy.utils import typecheck
